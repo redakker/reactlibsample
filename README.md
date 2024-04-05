@@ -6,3 +6,11 @@ Unfortunately, a library cannot be outside of the “src“ folder of a React ap
 Here is nice article for howto. You need to use an addition npm package “crarco“
 https://blog.logrocket.com/using-path-aliases-cleaner-react-typescript-imports/
 
+Install:
+
+- go to the library folder (/src/libs/examplelib)
+- npm i
+- npm run build
+- go to the root directory
+- npm i
+- npm run mystart
