@@ -14,3 +14,7 @@ Install:
 - go to the root directory
 - npm i
 - npm run mystart
+
+#todo
+
+- make possible to hot reload. Library can be watched, and when someting changes, then the main project reloads it. (start with --watch)
